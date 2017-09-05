@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/menu/activity_side_menu_drawer.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/res/menu/activity_side_menu_drawer.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/menu/side_menu.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/res/menu/side_menu.xml"
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/ece13f809fea8279e6d37e14904a2dbea298feab/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/ece13f809fea8279e6d37e14904a2dbea298feab/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/ece13f809fea8279e6d37e14904a2dbea298feab/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/ece13f809fea8279e6d37e14904a2dbea298feab/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/ece13f809fea8279e6d37e14904a2dbea298feab/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\AndroidStudioProjects\\Tutorial10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/C:\\Users\\hannah\\.android\\build-cache\\d39e2bcc03a151e3c41ade36915ebe219930fc95\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/res/drawable/abc_cab_background_internal_bg.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<resources>
+    <string name="banner_ad_unit_id">ca-app-pub-aaa</string>
+    <string name="app_name">Tutorial10</string>
+    <string name="title_activity_side_menu">Jongno-gu, Seoul</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

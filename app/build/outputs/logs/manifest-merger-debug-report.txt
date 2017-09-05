@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/funnyeve-e002/.android/build-cache/cbb332d6213067a6aed9f3106612335be016bd53/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/funnyeve-e002/.android/build-cache/8b42714f4cca94142d431d0a25d02ea01bb459f2/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/ece13f809fea8279e6d37e14904a2dbea298feab/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/28336adb53637e10bbfa60c025961b27ac8c4ed7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/1b7cdd46c57103ac4aa92b50045130201653c53c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/19da654c44c2485fb31def49a1bb580e41597fe3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/funnyeve-e002/.android/build-cache/72654070427df20542ad5a3743e4518d90dfb634/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.2] /Users/funnyeve-e002/.android/build-cache/59c84848f0d0af86b3690284d25a991e95502cf8/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.2] /Users/funnyeve-e002/.android/build-cache/7b9916362910c0c8966a8b21d3b2dccbd79b37da/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.2] /Users/funnyeve-e002/.android/build-cache/f92e81809b52877cc49d0c954d21e19a11275b0a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/funnyeve-e002/.android/build-cache/8c7a9c2319f62497bccda174ecf1fe6a1207e209/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/funnyeve-e002/.android/build-cache/d278af0a8d044ad68f06471cb5ab220089aa92a2/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/funnyeve-e002/.android/build-cache/e1de0f510b5e4fb48f44fe6d15f9883aa4255718/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/21b934cee79e94121eec08c033d526da60fb6996/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/883a75d857cf65673a7c9711094f7608305cfa48/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/5abd127ec90c090fde921a1255c7b8d6478c5a0c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/31012b4589c5f843d6cff35da556929da45f06fa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/a8d41f4dd901adffd0b0eeecf10b3935a22d13b7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/96b35aac5d5e794e1f4a54526cca7aefb67cf513/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:11:9-40
+activity#org.techtown.tutorial10.LoginActivity
+ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:12:9-14:20
+	android:name
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:13:13-42
+activity#org.techtown.tutorial10.MainActivity
+ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:15:9-50
+	android:name
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:15:19-47
+activity#org.techtown.tutorial10.RegisterActivity
+ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:16:9-54
+	android:name
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:16:19-51
+activity#org.techtown.tutorial10.SideMenuActivity
+ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:17:9-28:20
+	android:label
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:19:13-61
+	android:theme
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:18:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/funnyeve-e002/.android/build-cache/cbb332d6213067a6aed9f3106612335be016bd53/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] /Users/funnyeve-e002/.android/build-cache/8b42714f4cca94142d431d0a25d02ea01bb459f2/output/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/ece13f809fea8279e6d37e14904a2dbea298feab/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/28336adb53637e10bbfa60c025961b27ac8c4ed7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/1b7cdd46c57103ac4aa92b50045130201653c53c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/a4463e62ff23941ce54402542cd4e5a136d6cd10/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/19da654c44c2485fb31def49a1bb580e41597fe3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:11.0.2] /Users/funnyeve-e002/.android/build-cache/81b2dec2dab1244a410a146b05dbe464e9870512/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/funnyeve-e002/.android/build-cache/72654070427df20542ad5a3743e4518d90dfb634/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.2] /Users/funnyeve-e002/.android/build-cache/59c84848f0d0af86b3690284d25a991e95502cf8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.2] /Users/funnyeve-e002/.android/build-cache/7b9916362910c0c8966a8b21d3b2dccbd79b37da/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.2] /Users/funnyeve-e002/.android/build-cache/f92e81809b52877cc49d0c954d21e19a11275b0a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/funnyeve-e002/.android/build-cache/8c7a9c2319f62497bccda174ecf1fe6a1207e209/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/funnyeve-e002/.android/build-cache/d278af0a8d044ad68f06471cb5ab220089aa92a2/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/funnyeve-e002/.android/build-cache/e1de0f510b5e4fb48f44fe6d15f9883aa4255718/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/21b934cee79e94121eec08c033d526da60fb6996/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/883a75d857cf65673a7c9711094f7608305cfa48/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/5abd127ec90c090fde921a1255c7b8d6478c5a0c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/31012b4589c5f843d6cff35da556929da45f06fa/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/a8d41f4dd901adffd0b0eeecf10b3935a22d13b7/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/96b35aac5d5e794e1f4a54526cca7aefb67cf513/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/ece13f809fea8279e6d37e14904a2dbea298feab/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/ece13f809fea8279e6d37e14904a2dbea298feab/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/28336adb53637e10bbfa60c025961b27ac8c4ed7/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/1b7cdd46c57103ac4aa92b50045130201653c53c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/a4463e62ff23941ce54402542cd4e5a136d6cd10/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/19da654c44c2485fb31def49a1bb580e41597fe3/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/21b934cee79e94121eec08c033d526da60fb6996/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/883a75d857cf65673a7c9711094f7608305cfa48/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/5abd127ec90c090fde921a1255c7b8d6478c5a0c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/31012b4589c5f843d6cff35da556929da45f06fa/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/a8d41f4dd901adffd0b0eeecf10b3935a22d13b7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/96b35aac5d5e794e1f4a54526cca7aefb67cf513/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/ece13f809fea8279e6d37e14904a2dbea298feab/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/funnyeve-e002/.android/build-cache/ece13f809fea8279e6d37e14904a2dbea298feab/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/funnyeve-e002/.android/build-cache/72654070427df20542ad5a3743e4518d90dfb634/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/funnyeve-e002/.android/build-cache/8c7a9c2319f62497bccda174ecf1fe6a1207e209/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/funnyeve-e002/.android/build-cache/72654070427df20542ad5a3743e4518d90dfb634/output/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/funnyeve-e002/.android/build-cache/72654070427df20542ad5a3743e4518d90dfb634/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/funnyeve-e002/.android/build-cache/8c7a9c2319f62497bccda174ecf1fe6a1207e209/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/funnyeve-e002/.android/build-cache/72654070427df20542ad5a3743e4518d90dfb634/output/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/funnyeve-e002/.android/build-cache/72654070427df20542ad5a3743e4518d90dfb634/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/funnyeve-e002/.android/build-cache/72654070427df20542ad5a3743e4518d90dfb634/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/funnyeve-e002/.android/build-cache/72654070427df20542ad5a3743e4518d90dfb634/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/funnyeve-e002/.android/build-cache/72654070427df20542ad5a3743e4518d90dfb634/output/AndroidManifest.xml:25:19-71
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.2] /Users/funnyeve-e002/.android/build-cache/8c7a9c2319f62497bccda174ecf1fe6a1207e209/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] /Users/funnyeve-e002/.android/build-cache/8c7a9c2319f62497bccda174ecf1fe6a1207e209/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] /Users/funnyeve-e002/.android/build-cache/8c7a9c2319f62497bccda174ecf1fe6a1207e209/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/funnyeve-e002/.android/build-cache/e1de0f510b5e4fb48f44fe6d15f9883aa4255718/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/funnyeve-e002/.android/build-cache/e1de0f510b5e4fb48f44fe6d15f9883aa4255718/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/funnyeve-e002/.android/build-cache/e1de0f510b5e4fb48f44fe6d15f9883aa4255718/output/AndroidManifest.xml:20:20-65

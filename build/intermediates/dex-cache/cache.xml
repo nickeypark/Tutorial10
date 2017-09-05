@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/72654070427df20542ad5a3743e4518d90dfb634/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_6bec9bdf24aee21be1ca5a99e05d3fe4d4484c14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/a115dadcd99bc1f1eb4213a3ca7532284683134f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_5abf0271c7b6791d0f4ec15c9e563c8d60eca785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/d278af0a8d044ad68f06471cb5ab220089aa92a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_4b9011be9b51d551a7f4cf990eed5cd012bcd51e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/28336adb53637e10bbfa60c025961b27ac8c4ed7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_6fd9b27339de40267b64e763426324b2368d172f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/96b35aac5d5e794e1f4a54526cca7aefb67cf513/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_b18f74313c4bfdc568d11d375d99c2072c6b3115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/1b7cdd46c57103ac4aa92b50045130201653c53c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_c85154b20cfc924653f5d810cafb1b70e31fcb21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/8b42714f4cca94142d431d0a25d02ea01bb459f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_5ec4019c7de8f145d7fe50a625de7adeac1ff8ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_b98f1c93b41eab3fca3b41e871cbb2344d4c1447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_4a58629c83ac80c0d74beaa3ac42b6c044a2908d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/8c7a9c2319f62497bccda174ecf1fe6a1207e209/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_60a28be9e927905098b60ed2143e7feb1dd2a5fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/cbb332d6213067a6aed9f3106612335be016bd53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_6792a23c6802d7ed2cb72a9c42db856bc95b9931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/5abd127ec90c090fde921a1255c7b8d6478c5a0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_46c14455ab5270442b0717ad4d38c263ec53c3a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/685fd155eae357a38dd8aeb5ed319d9212c8f66e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_6ec85fdb1f42836d1a875827b64468b6e8613dc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/883a75d857cf65673a7c9711094f7608305cfa48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_98a3a75b895b1ebd35c30c2c5a90a5646dc106ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/19da654c44c2485fb31def49a1bb580e41597fe3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_1401ca4cfe575931b9b5cda2a572331ccea9b686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/21b934cee79e94121eec08c033d526da60fb6996/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_3cf0af5844cacb50a6d2687f4fb94464e7d34b35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/a8d41f4dd901adffd0b0eeecf10b3935a22d13b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_903e8fbc332cafd29751668c4bb1bdd4e279917f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/f92e81809b52877cc49d0c954d21e19a11275b0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_90ad4edf3cde5b41e0f63f24c4041c0d1a4b8373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/81b2dec2dab1244a410a146b05dbe464e9870512/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_aab7f5d9870e34463e977383830391294ba922fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/31012b4589c5f843d6cff35da556929da45f06fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_e5ddd6f6b5e2972a4a842c97810cbfebcffdba8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/e1de0f510b5e4fb48f44fe6d15f9883aa4255718/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_503f26bfa8151e7ce8ae61297071f4e2d0ff85fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/ece13f809fea8279e6d37e14904a2dbea298feab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_9443ba0ca50dfea77542586c9b52f7c9a5078c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/59c84848f0d0af86b3690284d25a991e95502cf8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_953973cebf57a79effd76202761bc88a39db4739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/7b9916362910c0c8966a8b21d3b2dccbd79b37da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_64f4cfdf51ba9c2e4762f696ba649d5efa72892a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/funnyeve-e002/.android/build-cache/a4463e62ff23941ce54402542cd4e5a136d6cd10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/funnyeve-e002/Desktop/zelly/Dev 2/Workspace/Android_Workspace/Tutorial10/app/build/intermediates/pre-dexed/debug/classes_94f7b14d7bd6ba6c41f65befedfd03f7f2b378b4.jar" />
+    </item>
+
+</items>

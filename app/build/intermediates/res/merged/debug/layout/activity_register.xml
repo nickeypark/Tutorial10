@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="org.techtown.tutorial10.RegisterActivity">
+
+
+    <EditText
+        android:id="@+id/idText"
+        android:layout_width="356dp"
+        android:layout_height="44dp"
+        android:ems="10"
+        android:hint="아이디"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="1dp"
+        android:layout_above="@+id/passwordText"
+        android:layout_alignLeft="@+id/passwordText"
+        android:layout_alignStart="@+id/passwordText" />
+
+    <EditText
+        android:id="@+id/passwordText"
+        android:layout_width="356dp"
+        android:layout_height="43dp"
+        android:ems="10"
+        android:hint="비밀번호"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="44dp"
+        android:layout_above="@+id/nameText"
+        android:layout_alignLeft="@+id/nameText"
+        android:layout_alignStart="@+id/nameText"
+        android:layout_marginBottom="16dp" />
+
+    <EditText
+        android:id="@+id/nameText"
+        android:layout_width="346dp"
+        android:layout_height="44dp"
+        android:ems="10"
+        android:hint="이름"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="87dp"
+        android:layout_above="@+id/ageText"
+        android:layout_alignLeft="@+id/ageText"
+        android:layout_alignStart="@+id/ageText" />
+
+    <EditText
+        android:id="@+id/ageText"
+        android:layout_width="344dp"
+        android:layout_height="47dp"
+        android:ems="10"
+        android:hint="나이"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="130dp"
+        android:layout_above="@+id/registerButton"
+        android:layout_alignRight="@+id/registerButton"
+        android:layout_alignEnd="@+id/registerButton" />
+
+    <Button
+        android:id="@+id/registerButton"
+        android:layout_width="350dp"
+        android:layout_height="62dp"
+        android:text="회원가입"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="181dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
